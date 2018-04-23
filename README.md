@@ -17,6 +17,7 @@ Up until now, we've been writing our components and elements using `React.create
 ![Using JSX](https://media.giphy.com/media/l4HnT4tZzUozNFx4s/giphy.gif)
 
 ## What does it look like?
+hello
 
 A React component written in JSX looks something like this:
 
